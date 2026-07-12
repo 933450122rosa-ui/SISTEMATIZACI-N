@@ -1,0 +1,6 @@
+#CREACIÓN DE UN VECTOR
+edad <- c(18,20,19,22,21,23,20)
+#CALCULAR PROMEDIO
+mean(edad)
+#DESVIACIÓN
+sd(edad)
