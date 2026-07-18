@@ -1,0 +1,8 @@
+#CASO 2
+# Hazard Ratio reportado
+HR<-0.75
+#INCREMENTO PORCENTUAL DE RIESGO
+incremento<-(1-HR)*100
+#MOSTRAR RESULTADO
+cat("Hazard Ratio=",HR,"\n")
+cat("Bajo riesgo",incremento,"%\n")
